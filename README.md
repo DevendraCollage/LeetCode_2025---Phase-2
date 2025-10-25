@@ -1,2 +1,5 @@
-# LeetCode_2025---Phase-2
-This repository Contains the solution of daily coding problems of the Leetcode Platform for the year 2025 - Phase-2.
+# [LeetCode](https://www.leetcode.com/)
+
+| Sr. | Date     | Problem                                                                                                                                     | Difficulty | Solution                      | Month   |
+| --- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- | ------- |
+| 1   | 25/10/25 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/?envType=daily-question&envId=2025-10-25) | Easy       | [Python](./October/LC1716.py) | October |
